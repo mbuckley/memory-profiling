@@ -1,9 +1,8 @@
 # Performance Profile (Memory)
 
-- Open dev tools / Performance
-- Check the Memory option
+- Open dev tools / Memory
 - Click the garbage can to collect memory before recording
-- Click the record button
-- Click the Grow button 10 times or so
+- Click the button 10 times
 - Click the garbage can to collect memory before stopping
-- Click the Stop button
+- Select the "Take Heap Snapshot" option and click "Take Snapshot"
+- Filter for "Detached"
