@@ -1,5 +1,8 @@
 # Memory Profiling
 
+## What is a memory leak?
+
+
 
 ## Chrome Task Manager
 Window > Task Manager > Right click on header bar and select "JavaScript Memory"
